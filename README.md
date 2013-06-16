@@ -1,6 +1,10 @@
-# graysonwright / resume
+# Resume
+
+Grayson Wright
 
 This repository contains the source for my past work experience.
-It is a work in progress, and I will be updating it as time goes on.
+I will be updating it as time goes on, so you'll always be able to find the most recent information here.
 
-Please check out [the current, rendered version of my resume](https://rawgithub.com/graysonwright/resume/master/resume.html).
+[Click to view the resume](https://rawgithub.com/graysonwright/resume/master/resume.html).
+
+If you're interested in hiring me, please send me an email at wright.grayson@gmail.com
