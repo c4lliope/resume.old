@@ -71,7 +71,10 @@ span.gpa {
 }
 .content ul {
   margin-top: 2px;
-  margin-bottom: 2em;
+  margin-bottom: 1.6em;
+  list-style: none;
+  padding-left: 0;
+  line-height: 1.3em;
 }
 .content li {
   font-size: 1em;
